@@ -1,7 +1,7 @@
 - 👋 Hi, I’m lightlin
-- 👀 I’m interested in JavaScript and Go
-- 🌱 I’m currently learning Node.js and Go
-- 💞️ I’m looking to collaborate on
+- 🎓 Graduated from Neusoft Institute Guangdong，majoring in software engineering
+- 💻 React, Next.js, Vue, Uniapp, Wechat Mini Program & Serverless, A little Golang
+- 💞 I'm looking for a job in front-end development
 - 📫 Concat me: lighterlam@gmail.com
 
 <!---

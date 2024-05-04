@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Light Lin
+- 👋 Hi, I’m lightlin
 - 👀 I’m interested in JavaScript and Go
 - 🌱 I’m currently learning Node.js and Go
 - 💞️ I’m looking to collaborate on
